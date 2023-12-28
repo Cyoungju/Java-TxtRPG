@@ -40,40 +40,42 @@ public class SceneController {
             case 0:
                 sceneState = new MenuController();
                 break;
-
             case 1:
                 System.out.println("                                            학교에 갑니다.");
                 this.sceneState = new EducationCenterService();
                 break;
-
             case 2:
                 System.out.println("                                          아르바이트를 갑니다.");
                 this.sceneState = new ParttimeJobService();
                 break;
-
             case 3:
                 System.out.println("                                           파티에 참석합니다.");
                 this.sceneState = new PartyService();
                 break;
-
             case 4:
                 System.out.println("                                             외출을 합니다.");
                 this.sceneState = new OutService();
                 break;
-
             case 5:
-
                 System.out.println("                                           상태확인을 합니다.");
                 this.sceneState = new StatusController();
                 break;
-
             case 6:
                 sceneState = new IntroController();
                 break;
-
+            default:
+                sceneState = new MenuController();
+                break;
         }
         this.sceneState.initialize();
     }
+
+
+
+
+
+
+
     public  void turnRender(){
         try {
             Thread.sleep(1000);
