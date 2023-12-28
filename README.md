@@ -1,12 +1,13 @@
 # txtRPG
 Java로 제작한 txtRPG
 
-## txtRPG_java
+## txtRPG 프로젝트
+### 1. txtRPG_java
 ###### 작업 기한  :  9월 13일 ~ 9월 19일
 
-## txtRPG_SQL
+### 2. txtRPG_SQL
 ###### 작업 기한  :  9월 29일 ~ 10월 6일
-###### java로만 만든 txtRPG에 SQL 구문
+java로만 만든 txtRPG에 SQL 구문 추가
 
 
 ## txtRPG 작업
