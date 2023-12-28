@@ -1,4 +1,4 @@
-# txtRPG
+# 🚀txtRPG
 Java로 제작한 txtRPG
 <br><br>
 
