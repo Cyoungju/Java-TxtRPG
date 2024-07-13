@@ -22,4 +22,4 @@ Java(JDK 11)
 - 게임 기획 및 방향 설정
 - 화면 구조 , 게임 설계 구현
 - 게임 사용자 정보 저장을 위해 SQL 구문 추가
-<img src="./images/game.jpg">
+- https://gitmind.com/app/docs/mh1xteui
