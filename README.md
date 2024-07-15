@@ -20,5 +20,5 @@ Java(JDK 11)
 ### 담당역할
 - 게임 기획 및 방향 설정
 - 화면 구조 , 게임 설계 구현
-- 게임 사용자 정보 저장을 위해 SQL 구문 추가
-- https://gitmind.com/app/docs/mh1xteui
+- 게임 사용자 정보 저장을 위해 SQL 구문 추가<br>
+<img src="./images/planning.jpg">
